@@ -1,5 +1,7 @@
 <img width="425" height="425" alt="image" src="https://github.com/user-attachments/assets/c9d3b527-47eb-4f4a-bde4-74f10f9f9463" />
 
+
+
 Olá somos a **LOGTECH**, muito prazer!   🧑‍🎓    👨‍💻   📈    📉    📊
 Projeto baseado na metodologia Ágil Scrum, buscando desenvolver a proatividade, trabalho em equipe e entrega de resultados.
 
@@ -34,11 +36,11 @@ O projeto API tem como o objetivo principal em desenvolver uma solução tecnol�
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Lucan Raphael Marques |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucan-marques-5a94294b/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucanMarques89)              |
-| Scrum Master  | Renan Joval Francisco Nascimento |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renan-nascimento-99a622ab/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/renannascimento13)
-| Team Member   | Evelyn Caroline Marcelino da Silva Barbosa |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evelyn-caroline-2066662b2/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/evelyncaroline01)        |
+| Product Owner |  |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Scrum Master  |  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+| Team Member   |  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
 |  Team Member  | Lucas Barsaglini |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)   |
-|  Team Member  | Rafael Luiz dos Santos |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelluizsantos/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafaelsantos2001)     |
+|  Team Member  |  |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -68,3 +70,59 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Backlog do produto
 
+| Rank | Prioridade | User Story                                                                                                |   Estimativa    | Sprint                                                                                                       
+|------|------------|------------|-----------------|---------------------------------------------------------------------------------------------------------------
+| 1    | Alta       | Como estudante de logística procuro analisar dados de acidentes de transito para concluir a primeira Sprint de forma correta com as pesquisas realizadas| 4              | 1
+| 2    | Alta       | Como estudante de logística vou entregar a Sprint 2 com os dados atualizados do projeto discutido com a equipe                           | 6             | 2
+| 3    | Alta       | Como estudando de logística quero que na Sprint 3 o projeto esteja praticamente finalizado                  | 5              | 3
+| 4    | Alta       | Como estudante de logística espero que na Sprint 4 o projeto esteja finalizado com sucesso                  | 5             | 4
+
+## Sprint 1
+- [ ]  Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
+## Sprint 2
+- [ ] Documento passo a passo;
+- [ ] Vídeo passo a passo;
+- [ ] Treinamento com os professores;
+- [ ] Treinamento com os alunos;
+- [ ] Monitoramento e ajustes:
+
+## Sprint 3
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [X] Finalize e aprovação.
+      
+## Sprint 4
+- [ ] Defina o propósito do template;
+- [ ] Identifique os elementos principais;
+- [ ] Esboce o layout;
+- [ ] Escolha cores e fontes;
+- [ ] Desenvolva o design;
+- [ ] Teste e revise;
+- [ ] Documente instruções de uso;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
+
+# Registro das Sprints
+
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|01| 00/09/2026 | em andamento | [Ver Relatório](https://) | 
+|02| 00/10/2026 | a fazer |[Ver Relatório](https://) | 
+|03| 00/00/2026 | a fazer |[Ver relatório](https://) | 
+|04| 00/00/2026 |a fazer |[Ver Relatório](https://)  | 
+|Feira de Soluções|29/05/2025 |a fazer |[Ver Relatório](https://) |
